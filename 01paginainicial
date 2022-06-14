@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="stylesheet2.css">
+	<title>Sipo: Site de Sapo!</title>
+</head>
+<body>
+	<div class="left">
+			<a href="01paginainicial.html"><img width="180" height="180" class="logo" src="logo.png"></a>
+			<p>&nbsp;</p>
+			<a href="01paginainicial.html"><button>Página Inicial</button></a>
+			<p>&nbsp;</p>
+			<p><a href="02sapocururu.html"><button>Sapo Cururu</button></a></p>
+			<p><a href="03ran.html"><button>Rãs</button></a></p>
+			<p><a href="04perereca.html"><button>Pererecas</button></a></p>
+			<p><a href="05diferenca.html"><button>Saiba diferenciá-los!</button></a></p>
+			&nbsp;
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p><a href="08comentario.html"><button>Deixe seu comentário!</button></a></p>
+			<p><a href="07Sobre.html"><button>Sobre nós</button></a></p>
+			<p>&nbsp;</p>
+
+	</div>
+
+	<div>
+		<img src="sidebanner.jpg" class="sidebanner">
+
+	</div>
+	<div class="topo">
+		<img align="center" src="title.png">
+	</div>
+	
+	<div class="intro">
+		<br>
+		<h3 align="center">Bem vindo ao Sipo!</h3>
+		<br>
+		<p>A vida urbana afastou o homem da vida natural: a grande demanda de espaço nos centros urbanos afasta a fauna e flora nativa para dar espaço à praticidade do concreto. No entanto, graças a globalização, a população humana livra-se da dependência destes centros comerciais e passa a residir em cidades mais próximas à natureza, retornando ao velho conflito entre os habitantes animais e os seres humanos, numa relação agressiva de praga e pragado.</p>
+		<p> 	O problema está no fato destes animais serem demonizados e tratados como pestes, quando, na maioria dos casos, são inofensivos ao ser humano e estão apenas seguindo seus instintos naturais à procura de lar e alimento. Tendo isto em mente, o <b>Sipo</b> busca desmistificar e esclarecer as "ameaças" produzidas por esses animais, instruído os cuidados a serem tomados e formas de lidar com a presença destes pequenos seres, a fim de garantir a importantíssima função deles no ecossistema. Ou apenas mostrar um pouquinho mais sobre os amigos anfíbios.</p>
+	</div>
+
+	<div class="card" style="width: 18rem;" id="card1";>
+  		<img src="saporato.jpg" class="sapogand" id="sapogand" alt="Sapo-cururu">
+  		<div class="card-body">
+    		<h5 class="card-title">Sapo Cururu</h5>
+   			<p class="card-text">Os Cururus tem fama de perigosos, mas na verdade...</p>
+    		<a href="02sapocururu.html" class="btn btn-primary" id="botao">Saiba mais...</a>
+ 		</div>
+	</div>
+	<div class="card" style="width: 18rem;" id="card2";>
+  		<img src="pererecabraba.jpg" class="card-img-top" alt="Rã">
+  		<div class="card-body">
+    		<h5 class="card-title">Perereca</h5>
+   			<p class="card-text">Pequeninas e eventualmente mortais...</p>
+    		<a href="04perereca.html" class="btn btn-primary" id="botao">Saiba mais...</a>
+ 		</div>
+	</div>
+
+	<div class="card" style="width: 18rem;" id="card3";>
+  		<img src="ra.jpg" class="card-img-top" alt="Rã">
+  		<div class="card-body">
+    		<h5 class="card-title">Rã</h5>
+   			<p class="card-text">As rãs são anfíbios de pele fina e úmida...</p>
+    		<a href="03ran.html" class="btn btn-primary" id="botao">Saiba mais...</a>
+ 		</div>
+	</div>
+
+
+	<div class="pe">
+		<img class="if" align="right" src="if.png">
+		<p style="font-size: 20px;">Contatos:</p>
+		<p>+55 (66) 99983-5588</p>
+		<p>pedro.miranda.estudante@bag.ifmt.edu.br</p>
+		<p>dyovana.araujo.estudante@bag.ifmt.edu.br</p>
+
+	</div>
+
+
+</body>
+</html>
