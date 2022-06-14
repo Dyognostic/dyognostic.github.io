@@ -1,0 +1,199 @@
+body {background-color: #b5e4cb;}
+
+
+.left {
+	border-right: 1px solid  #00584e;
+	display: inline-block;
+	padding-left: 6px;
+	padding-right: 5px;
+	float: left;
+	font-family: "Lucida Sans";
+	text-decoration: none;}
+
+
+.topo{background-color: #00584e;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	width: 1124px;
+	left: 0px;
+	height: 180px;
+	position: relative;
+	display: inline-block;
+	float: left;
+	font-family: "Segoe UI";}
+
+
+.intro{width: 1000px;
+	height: 500px;
+	display: inline-block;
+	position: relative;
+	left: 30px;
+	text-indent: 30px;
+	text-align: justify;
+	float: left;
+	font-family: "Lucida Sans";}
+
+
+a{text-decoration: none;
+	color: black;}
+
+
+button{width: 200px;
+	height: 40px;
+	background-color: ;}
+
+
+.sidebanner{
+	display: inline-block;
+	float: right;
+	}
+
+.sideleg{right: 30px;
+		bottom: -150px;
+		position: absolute;}
+
+
+
+#card1{ display: inline-block;
+	position: absolute;
+	left: 250px;
+	bottom: -165px;}
+
+#card2{ display: inline-block;
+	position: absolute;
+	left: 600px;
+	bottom: -165px;}
+
+#card3{ display: inline-block;
+	position: absolute;
+	left: 950px;
+	bottom: -165px;}
+
+#botao{background-color: #00584e;
+	color: white;}
+
+.sapogand{width: 287px; height: 215px;}
+
+.pe{background-color: #00584e;
+	color: white;
+	text-indent: 110px;
+	font-size: 16px;
+	text-align: left;
+	width: 1580px;
+	height: 200;
+	float: right;
+	position: relative;
+	display: inline-block;
+	bottom: 0px;}
+
+.if{float: right;
+	width: 500px;}
+
+.fichasapo{position: absolute;
+	top: 300px;
+	font-size: 15px;
+	display: inline-block;
+	top:215px;
+	right: 210px;
+	border: 2px solid darkgreen;
+	align-content: center;
+	float: right;
+	max-width: 400px;
+	text-align: justify;}
+	
+
+.cururutext{position: absolute;
+		min-width: 600px;
+		min-height: 150px;
+		max-width: 600px;
+		max-height: 150px;
+		left: 240px;
+		text-indent: 30px;
+		display: inline-block;
+		text-align: justify;
+		top: 200px;
+		font-family: "Lucida Sans";
+		text-decoration: none;}
+
+#card4{ display: inline-block;
+	position: absolute;
+	right: 212px;
+	bottom: -125px;}
+
+#card5{ display: inline-block;
+	position: absolute;
+	right: 412px;
+	bottom: -125px;}
+
+.form{position: absolute;
+		display: inline-block;
+		left: 238px;
+		top: 200px;
+		font-family: "Lucida Sans";
+		font-size: 14;
+		border: 2px solid darkgreen;
+		float: left;
+		width: 965px;
+		height: 450px;
+		background-color: #E8F6EF;}
+
+.form, input{ padding-left: 30px;}
+
+textarea,.comentario{
+	min-width: 800px;
+	min-height: 150px;
+	max-width: 800px;
+	max-height: 150px;
+}
+
+.sapodif{position: absolute;
+	display: inline-block;
+	left: 260px;
+	top: 300px;}
+
+.sapoinf{position: absolute;
+	display: inline-block;
+	width: 300px;
+	left: 250px;
+	bottom: 50px; 
+	font-family: "Lucida Sans";
+	text-align: justify;}
+
+.radif{position: absolute;
+	display: inline-block;
+	left: 600px;
+	top: 305px;}
+
+.rainf{position: absolute;
+	display: inline-block;
+	width: 300px;
+	left: 590px;
+	bottom: 50px; 
+	font-family: "Lucida Sans";
+	text-align: justify;}
+
+.pererecadif{position: absolute;
+	display: inline-block;
+	left: 960px;
+	top: 305px;}
+
+.pererecainf{position: absolute;
+	display: inline-block;
+	width: 300px;
+	left: 940px;
+	bottom: 4px; 
+	font-family: "Lucida Sans";
+	text-align: justify;}
+
+.ref{position: relative;
+	display:inline-block;
+	bottom: -100px; padding-left: 30px;}
+.pedro {position: absolute;
+	display: inline-block;
+	left: 200px;}
+.dyo{position: absolute;
+	display: inline-block;
+	left: 300px;}
+	
+
