@@ -1,0 +1,203 @@
+body {background-color: #b5e4cb;}
+.titulo { text-align: center; }
+.left {
+	border-right: 3px solid black;
+	display: inline-block;
+	padding-left: 5px;
+	padding-right: 20px;
+	float: left;
+	font-family: "Lucida Sans";}
+
+.barra{	width: 1000px;
+    height: 500px;
+    display: inline-block;
+	position: relative;
+	left: 50px;
+	text-align: justify;
+	float: left;}
+
+.intro{
+	width: 1000px;
+    height: 500px;
+    display: inline-block;
+	position: relative;
+	left: 50px;
+	text-indent: 30px;
+	text-align: justify;
+	float: left;
+	font-family: "Lucida Sans";}
+
+.sapoimg1{position: absolute;
+		right: 470px;
+		display: inline-block;
+		text-align: center;
+		top:250px;}
+
+.sapotext{position: absolute;
+		left: 390px;
+		display: inline-block;
+		text-align: center;
+		top:700px;
+		text-decoration: none;}
+
+.sapoimg2{position: absolute;
+		right: 170px;
+		display: inline-block;
+		text-align: center;
+		top:250px;}
+
+.sapotext2{position: absolute;
+		left: 710px;
+		display: inline-block;
+		text-align: center;
+		top:700px;
+		text-decoration: none;}
+
+.sapoimg3{position: absolute;
+		right: -130px;
+		display: inline-block;
+		text-align: center;
+		top:250px;}
+
+.sapotext3{position: absolute;
+		left: 1030px;
+		display: inline-block;
+		text-align: center;
+		top:700px;
+		text-decoration: none;}
+
+.form{position: absolute;
+		display: inline-block;
+		left: 238px;
+		top: 200px;
+		font-family: "Lucida Sans";
+		font-size: 14;
+		border: 2px solid darkgreen;
+		float: left;
+		width: 965px;
+		height: 350px;
+		background-color: #E8F6EF;}
+.form, input{ padding-left: 30px; }
+
+.dif{font-size: 20;
+	font-family: "Lucida Sans", sans-serif;
+	position: absolute;
+	display: inline-block;
+	top:750px;
+	left: 550px;}
+
+.topo{background-color: #00584e;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	width: 1000px;
+	left: 50px;
+	position: relative;
+	display: inline-block;
+	float: left;
+
+font-family: "Arial Rounded MT";}
+
+table{ position: absolute; 
+		display: inline-block;
+		top:215px;
+		right: 250px;
+		border: 2px solid darkgreen;
+		align-content: center;}
+
+.canetoad{align-items: center;}
+
+.fichasapo{border: solid;
+		border-color: black;
+}
+
+textarea[id="coment"]{
+	min-width: 800px;
+	min-height: 150px;
+	max-width: 800px;
+	max-height: 150px;
+}
+
+.cururutext{position: absolute;
+		min-width: 600px;
+		min-height: 150px;
+		max-width: 600px;
+		max-height: 150px;
+		left: 240px;
+		text-indent: 30px;
+		display: inline-block;
+		text-align: justify;
+		top: 200px;
+		font-family: "Lucida Sans";
+		text-decoration: none;}
+.sidebanner{
+	display: inline-block;
+	float: right;}
+
+.sapoinf{position: absolute;
+	display: inline-block;
+	width: 300px;
+	left: 240px;
+	top: 420px; 
+	font-family: "Lucida Sans";
+	text-align: justify;}
+
+.sapodif{position: absolute;
+	display: inline-block;
+	left: 260px;
+	top: 180px;}
+
+.rainf{position: absolute;
+	display: inline-block;
+	width: 300px;
+	left: 580px;
+	top: 420px; 
+	font-family: "Lucida Sans";
+	text-align: justify;}
+
+.radif{position: absolute;
+	display: inline-block;
+	left: 600px;
+	top: 180px;}
+
+.pererecadif{position: absolute;
+	display: inline-block;
+	left: 960px;
+	top: 180px;}
+
+.pererecainf{position: absolute;
+	display: inline-block;
+	width: 290px;
+	left: 940px;
+	top: 420px; 
+	font-family: "Lucida Sans";
+	text-align: justify;}
+
+.ref{position: relative;
+	display:inline-block;
+	top: 900; padding-left: 60px;}
+
+.marina{width: 200px;
+	position: relative;
+	display:inline-block;
+	left: 700px;
+	bottom: 300px;
+	width:200px;}
+
+.marinatext{width: 250px;
+	position: relative;
+	display:inline-block;
+	left: 350px;
+	bottom: 280px;}
+
+.bufo{position: relative;
+	display:inline-block;
+	left: 700px;
+	bottom: 280px;
+	width:200px;}
+
+.bufotext{width: 200px;
+	position: relative;
+	display:inline-block;
+	left: 500px;
+	bottom: 260px;}
